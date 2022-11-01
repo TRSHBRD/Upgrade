@@ -16,11 +16,11 @@ Now, this is where things get out of hand if they weren't already.
 
 I want this game to be open..and I mean *open*. I'm talking if you see a building, you can enter it. If it's 69 stories tall, than it's 69 fucking stories tall, go climb it. If you see a door, there's a room behind it, and if there's a room behind it, there's loot in it. I understand the scope of that and what issues that brings. However, I do see a light at the end of the tunnel for *one* very specific reason.
 
-Boomer-shooters
+### Boomer-shooters
 
 How is that relevant? Well, graphically. Everyone wants to play the end-all-be-all *gorgeous, sprawling open-world action-adventure* game of their dreams, but lets keep it somewhat realistic here. No way you can have a game with that scope and those graphics together. The amount of money/time I'd have to dedicate to art would be astronomical. Besides, I'm a terrible artist. So, this is where boomer-shooters come into play. They're fun, they're great, and that's the kind of art I can do.
 
-I'm already versed in Trenchbroom while using it for [HYPERVIOLENT](https://store.steampowered.com/app/1409200/HYPERVIOLENT/), so building rooms and maps should be relatively quick. Texturing will be my downfall, however I plan on purchasing Substance Designer soon to help me along the process. 
+I'm already versed in Trenchbroom while using it for [HYPERVIOLENT](https://store.steampowered.com/app/1409200/HYPERVIOLENT/), so building rooms and maps should be relatively quick. 3D modelling and aniamting will be my downfall, however, so..we'll see. 
 
 
 # WITH THAT BEING SAID
@@ -33,7 +33,15 @@ A real old, messed up looking leg made from rusty iron.
 Finding different hinges, foot pads and springs to upgrade yourself, so that you may go out and find more. 
 ```
 
-After this, we'll work on upgrading weapons, gun-play and exploration mechanics. I'll try to do my best updating project boards and stuff, but while I'm by myself, it may be a bit more of a .. weekly thing.
+After this, we'll work on upgrading weapons, gun-play and exploration mechanics. I'll try to do my best updating project boards and stuff, but while I'm by myself, it may be a bit more of a .. weekly thing. 
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+ 
+# I will post the story, world building, art, maps etc etc here as well for the larger project as I go along. Stay here for both. :)
 
 Follow me, help me, shoot me a message. Whatever you'd like! It's public for now, however that will change eventually. 
 
