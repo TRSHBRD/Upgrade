@@ -28,7 +28,9 @@ I'm already versed in Trenchbroom while using it for [HYPERVIOLENT](https://stor
 I do not aim to create this whole game in the immediate. Creating in chunks is the best way to do things, and right now i will start with the third core concept I had talked about, and an even further reduced version of that concept.
 
 ```sh
-You will walk around a desert, scavenging pieces to upgrade your leg. A real old, messed up looking leg made from rusty iron. Finding different hinges, foot pads and springs to upgrade yourself, so that you may go out and find more. 
+You will walk around a desert, scavenging pieces to upgrade your leg. 
+A real old, messed up looking leg made from rusty iron. 
+Finding different hinges, foot pads and springs to upgrade yourself, so that you may go out and find more. 
 ```
 
 After this, we'll work on upgrading weapons, gun-play and exploration mechanics. I'll try to do my best updating project boards and stuff, but while I'm by myself, it may be a bit more of a .. weekly thing.
